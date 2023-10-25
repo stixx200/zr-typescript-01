@@ -16,3 +16,9 @@
 ## compile typescript code
 
 - `npx tsc`
+
+## Integrate tsc
+
+### To existing JavaScript code
+
+- https://www.typescriptlang.org/docs/handbook/type-checking-javascript-files.html
