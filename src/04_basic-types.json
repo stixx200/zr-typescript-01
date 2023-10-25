@@ -1,0 +1,16 @@
+{
+    "first": "hello world",
+    "age": 23,
+    "hobbies": {
+        "sports": ["basketball", "football"],
+        "music": ["rap", "rock"],
+        "movies": [{
+            "genre": "action",
+            "name": "The Matrix"
+        }, {
+            "genre": "comedy",
+            "name": "The Hangover"
+        }]
+    },
+    "isMarried": false
+}
